@@ -20,7 +20,7 @@
 // so fast one-handed typing doesn't spit out stray spaces.
 &lt {
     flavor = "balanced";
-    tapping-term-ms = 200;
+    tapping-term-ms = <200>;
 };
 
 / {
