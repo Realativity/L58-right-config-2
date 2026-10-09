@@ -1,0 +1,5 @@
+   name: lily58-vim-screen
+   build:
+     cmake: .
+     settings:
+       board_root: .
